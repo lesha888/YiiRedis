@@ -1,6 +1,6 @@
 {
-    "name": "codemix/yiiredis",
-    "description": "Familiar Yii style access to redis",
+    "name": "lesha888/yiiredis",
+    "description": "Familiar Yii style access to redis. Fork codemix/yiiredis. https://github.com/phpnode/YiiRedis",
     "license": "MIT",
     "authors": [
         {
